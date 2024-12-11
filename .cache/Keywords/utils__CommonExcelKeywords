@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0885E45FAACA94ED48C81AE5C81F0F07",
+  "keywordClasses": [
+    {
+      "name": "utils.CommonExcelKeywords",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
