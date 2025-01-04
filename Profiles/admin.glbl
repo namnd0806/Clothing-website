@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'http://127.0.0.1:5000/src/admin/index_admin.html#/login'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

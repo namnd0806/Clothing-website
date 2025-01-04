@@ -7,11 +7,17 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>383417d4-9499-4224-9ad2-ebf7e3a75dd9</dataFileGUID>
-   <dataSourceUrl></dataSourceUrl>
+   <dataSourceUrl>Data Files/ExcelFile/login.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName></sheetName>
+   <sheetName>login_admin</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>
