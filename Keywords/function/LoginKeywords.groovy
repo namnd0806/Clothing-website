@@ -17,5 +17,6 @@ public class LoginKeywords {
 		WebUI.sendKeys(findTestObject('Object Repository/Admin/Login/txt_password'), password);
 		WebUI.click(findTestObject('Object Repository/Admin/Login/btn_login'));
 		WebUI.verifyElementPresent(findTestObject('Object Repository/Admin/Login/verify_loginsuccess'), 10);
+		WebUI.waitForElementVisible(findTestObject('Object Repository/Admin/Login/verify_visible_thongke'), 10);
 	}
 }
