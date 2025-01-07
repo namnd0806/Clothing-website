@@ -1,0 +1,46 @@
+{
+  "keywordFileContentHash": "4E10DF2F41A5497AB129EFDAE6D76388",
+  "keywordClasses": [
+    {
+      "name": "function.QLKhachHangKeywords",
+      "keywordMethods": [
+        {
+          "name": "VerifyFormatTable",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "CheckBtnAction",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "CheckEnablePrevNextPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyVisible10RecordTable",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "CheckVisibleInput",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "CheckVisibleAndEnableBtnCreateKH",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "CheckNavigationQLKH",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
