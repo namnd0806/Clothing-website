@@ -33,7 +33,8 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n     * Lấy một dòng dữ liệu từ Test Data theo TC_ID và trả về HashMap\u003cString, String\u003e\r\n     * \r\n     * @param testDataName tên của Test Data\r\n     * @param tcId giá trị của TC_ID cần tìm\r\n     * @return HashMap\u003cString, String\u003e với cột là key và giá trị là value\r\n     */"
         },
         {
           "name": "isTCIDExist",
@@ -64,7 +65,8 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/** Kiểm tra sự tồn tại của một TC_ID **/"
         },
         {
           "name": "getColumnValues",
@@ -95,10 +97,11 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/** Lấy tất cả các giá trị của một cột **/"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

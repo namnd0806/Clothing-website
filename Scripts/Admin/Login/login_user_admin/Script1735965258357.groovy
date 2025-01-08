@@ -1,0 +1,1 @@
+CustomKeywords.'function.LoginKeywords.LoginAdminSuccess'(username, password);
