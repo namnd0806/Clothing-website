@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>QLKH_08</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9666b900-a156-4bb9-b157-e4826b0b180d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e582621e-ea0d-4aba-86ab-ee4914bab47e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DataFile/Admin/TaiKhoan</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e582621e-ea0d-4aba-86ab-ee4914bab47e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>53fb829e-8d18-4206-9039-7765f512baf7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e582621e-ea0d-4aba-86ab-ee4914bab47e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>dbc763e5-e70b-4515-a221-6ad684786212</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>53fb829e-8d18-4206-9039-7765f512baf7</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dbc763e5-e70b-4515-a221-6ad684786212</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
